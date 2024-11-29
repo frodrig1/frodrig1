@@ -1,0 +1,17 @@
+name: Renombrar repositorio
+
+on: 
+ workflow_dispatch:
+
+  inputs:
+   nombre_antiguo_repo:
+    description: "Antiguo nombre de repositorio"
+    required: true
+
+   nombre_nuevo_repo:
+    description: 'Nuevo nombre de repositorio'
+    required: true
+
+jobs:
+ Renombrar_repos:
+  runs-on: ubuntu-latest 

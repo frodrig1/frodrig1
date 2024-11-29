@@ -1,0 +1,32 @@
+name: create branch
+
+
+on:
+  
+  workflow_dispatch:
+    inputs:
+        REPOSITORIO:
+          type: string
+          description: Nombre del repositorio  
+          required: true
+        
+
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+
+    steps:
+         - uses: actions/checkout@v4
+         - uses: actions/setup-python@v5
+           with:
+             python-version: '3.9'
+
+         - run:  | 
+            
+            pip install requests
+            echo  ${{ github.event.repository.name }} 
+
+            python create_branch.py ${{ secrets.YOUR_TOKEN }} ${{ github.event.repository.name }} 
+
+            
