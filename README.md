@@ -1,4 +1,5 @@
 # Introduction to Git and GitHub
+Con este repositorio estoy aprendiendo las tecnicas para trabajar con GITHUB, a continuacion adjunto configuracion para trabajar con la calculadora.
 
 ## Simple Interest Calculator
 
