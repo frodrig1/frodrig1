@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.5">
+  <diagram name="Page-1" id="PPtTxKibOSEi2SFL57jU">
+    <mxGraphModel dx="786" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-1" value="&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;DATOS BASICOS USUARIO&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Nombres:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;edad:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;peso:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;sexo:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;dirección:&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-2" value="INPUT 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-3" value="JOB1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="285" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-4" value="INGRESAR SEDES GYM&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;VAR1: SEDE DISPONIBLE&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-5" value="OUTPUT 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="510" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-6" value="Bienvenido a la Sede XXX&lt;div&gt;Descripcion Sedes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="490" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-7" value="INPUT 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="50" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-8" value="&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="830" y="370" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-9" value="Descripcion basica Gym&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Horarios&lt;/div&gt;&lt;div&gt;Disponibilidad&lt;/div&gt;&lt;div&gt;Capacidad&lt;/div&gt;&lt;div&gt;Ubicacion&lt;/div&gt;&lt;div&gt;Servicios&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="ru6ACPvDHDuRTfQjhrKw-11" target="ru6ACPvDHDuRTfQjhrKw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-11" value="Archivo de Sedes Disponibles&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Nombre&lt;/div&gt;&lt;div&gt;Direccion&lt;/div&gt;&lt;div&gt;Horarios&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" vertex="1" parent="1">
+          <mxGeometry x="255" y="245" width="120" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.569;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" source="ru6ACPvDHDuRTfQjhrKw-1" target="ru6ACPvDHDuRTfQjhrKw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.097;entryY=0.863;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.019;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="ru6ACPvDHDuRTfQjhrKw-11" source="ru6ACPvDHDuRTfQjhrKw-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="550" as="sourcePoint" />
+            <mxPoint x="460" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ru6ACPvDHDuRTfQjhrKw-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" edge="1" parent="1" target="ru6ACPvDHDuRTfQjhrKw-6" source="ru6ACPvDHDuRTfQjhrKw-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="305" as="sourcePoint" />
+            <mxPoint x="680" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
